@@ -1,4 +1,4 @@
-**** Compile FFMpeg(support OpenSSL) for iOS, support armv7/armv7s/i386 (Universal library). ****
+****Compile FFMpeg(support OpenSSL) for iOS, support armv7/armv7s/i386 (Universal library).****
 
 The defualt version of building ffmpeg is 2.0 .
 
